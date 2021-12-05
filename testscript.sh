@@ -2,4 +2,4 @@
 
 echo "this is test from GitHub by Sagi"
 NUMBER=$(($NUMBERONE + $NUMBERTWO))
-echo “$NUMBER"
+echo "$NUMBER"
